@@ -15,4 +15,8 @@ Contains the agent code (`ddpg_agent.py`), neural net code (`model.py`), trainin
 
 # Instructions
 
+To set up the Unity environment, please follow the instructions from [Udacity's project description](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control#getting-started)
+
+For setting up the Python environment, please follow the dependencies instructions from [Udacity's Deep Reinforcement Learning Nanodegree materials](https://github.com/udacity/deep-reinforcement-learning#dependencies)
+
 Follow the instructions in `Continuous_Control.ipynb` to train the agent.
